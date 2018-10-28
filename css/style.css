@@ -992,7 +992,7 @@ article .desc .tag {
   color: #000;
   border: 2px solid #da70d6; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-    background: # #e0ce8a !important;
+    background: # ##e0ce8a !important;
     border-color: # #e0ce8a !important; }
   .btn-primary.btn-outline {
     background: transparent;
